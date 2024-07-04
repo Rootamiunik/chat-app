@@ -1,2 +1,2 @@
 # chat-app
-Check It out :
+Check It out : https://rootamiunik.github.io/chat-app/
